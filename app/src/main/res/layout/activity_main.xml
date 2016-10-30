@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context="a07150709.gdmec.toast.MainActivity">
+
+  <Button
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Toast直接输出文字"
+      android:id="@+id/button1"
+      android:layout_gravity="center_horizontal"
+       />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Toast直接输出文字"
+        android:id="@+id/button2"
+        android:layout_gravity="center_horizontal"
+         />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Toast直接输出文字"
+        android:id="@+id/button3"
+        android:layout_gravity="center_horizontal"
+     />
+</LelativeLayout>
